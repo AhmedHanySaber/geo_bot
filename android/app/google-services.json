@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690981922172",
+    "project_id": "geobotapp",
+    "storage_bucket": "geobotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690981922172:android:fde4954ba019d8a7aaf0f9",
+        "android_client_info": {
+          "package_name": "com.example.geo_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpjd6D_5Ya6po2p5VUbvIne3k3PeQ0uJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
